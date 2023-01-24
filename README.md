@@ -5,3 +5,7 @@ This study aims to design and develop an underground cable fault detector with i
 <p align="center">
   <img src="schematic\diagram.png">
 </p>
+
+<p align="center">
+  <img src="doc\flowchart.png">
+</p>
